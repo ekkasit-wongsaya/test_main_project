@@ -1,3 +1,6 @@
 [submodule "test_common"]
 	path = test_common
 	url = git@github.com:ekkasit-wongsaya/test_common.git
+[submodule "test_config"]
+	path = test_config
+	url = git@github.com:ekkasit-wongsaya/test_config.git
