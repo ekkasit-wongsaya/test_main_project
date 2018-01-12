@@ -7,3 +7,6 @@
 [submodule "applications/test_app01"]
 	path = applications/test_app01
 	url = git@github.com:ekkasit-wongsaya/test_app01.git
+[submodule "applications/test_app02"]
+	path = applications/test_app02
+	url = git@github.com:ekkasit-wongsaya/test_app02.git
